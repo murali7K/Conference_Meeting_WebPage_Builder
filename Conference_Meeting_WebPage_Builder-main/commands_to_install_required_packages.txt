@@ -1,0 +1,18 @@
+### Required packages .... 
+
+### frontend -- (in main Folder)
+-->  npx create-react-app conference
+
+### In backend folder
+-->  npm init
+-->  npm i express
+-->  npm i -D nodemon
+-->  npm install cors
+-->   npm install express-validator              
+-->  npm install bcryptjs
+-->  npm install jsonwebtoken
+-->  npm install concurrently
+
+
+### To run both frontend and backend together 
+-->  npm run both
